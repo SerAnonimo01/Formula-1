@@ -1,0 +1,8 @@
+@font-face {
+    font-family:"Runner";
+    src: url(fonts/Runner.ttf);
+}
+
+h1{
+    font-family:'Runner';
+}
