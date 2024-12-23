@@ -81,8 +81,7 @@ E estamos utilizando o *Apache*, (Servidor HTTP Apache), é um servidor de códi
 A imagem abaixo (*box model*) explica melhor visualmente cada elemento do HTML que utilizamos na estilização no CSS:
 
 <p align="center">
-  <img align="center" src="https://media.gcflearnfree.org/content/5f29bcb11ba79538b8778127_08_04_2020/borders.png
-  " alt="Imagem">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkXoDaVI2YnC9D3a4iLtSEYOOjVTPsOFQBg&s" alt="Imagem">
 </p>
 
 ### - CSS
