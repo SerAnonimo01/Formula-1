@@ -84,8 +84,6 @@ A imagem abaixo (*box model*) explica melhor visualmente cada elemento do HTML q
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkXoDaVI2YnC9D3a4iLtSEYOOjVTPsOFQBg&s" alt="Imagem">
 </p>
 
-### - CSS
-
 ## Explicação dos Códigos 🚀
 
 ### HTML
