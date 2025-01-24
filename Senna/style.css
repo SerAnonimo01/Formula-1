@@ -28,7 +28,7 @@
 }
 .logo img{
     width: auto;
-    height: 85px;
+    height: 70px;
     border: #fff solid 17px;
 }
 .top-buttons {
@@ -63,7 +63,7 @@
 }
 section{
     padding: 0 14%;
-    padding-right: 70px;
+    padding-right: 60px;
 }
 .img-text{
     width: 100%;
@@ -72,7 +72,7 @@ section{
     padding-right: 59px;
 }
 header{
-    border-bottom: 8px solid var(--main-color);
+    border-bottom: 5px solid var(--main-color);
     border-radius: 10%;
 }
 .main-text h5{
@@ -107,7 +107,7 @@ header{
 
 @media(max-width: 1770px){
     header{
-        padding: 22px 4%;
+        padding: 10px 4%;
     }
     .scroll{
         right: 4%;
@@ -116,8 +116,8 @@ header{
 
 @media(max-width: 1670px){
     :root{
-        --big-font: 5.5rem;
-        --p-font: 15px;
+        --big-font: 3rem;
+        --p-font: 13px;
     }
 }
 
